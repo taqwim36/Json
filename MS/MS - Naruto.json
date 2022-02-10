@@ -1,0 +1,654 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-1966753233849173/4987510946",
+      "main_ads_intertitial":"ca-app-pub-1966753233849173/6109020920",
+      "native_for_admob":"ca-app-pub-1966753233849173/4604367560",
+      "backup_ads_banner":"ff7cfdeef249068b",
+      "backup_ads_intertitial":"6a4450ba7e857b02",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "claim",
+      "high_paying_keyword_2": "donate",
+      "high_paying_keyword_3": "hosting",
+      "high_paying_keyword_4": "finance",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [],
+  "Skin":
+  [
+    {
+      "id":111,
+      "name_skin":"Naruto Skin 1",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0001.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0001.png"
+    },
+    {
+      "id":112,
+      "name_skin":"Naruto Skin 2",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0002.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0002.png"
+    },
+    {
+      "id":113,
+      "name_skin":"Naruto Skin 3",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0003.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0003.png"
+    },
+    {
+      "id":114,
+      "name_skin":"Naruto Skin 4",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0004.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0004.png"
+    },
+    {
+      "id":115,
+      "name_skin":"Naruto Skin 5",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0005.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0005.png"
+    },
+    {
+      "id":116,
+      "name_skin":"Naruto Skin 6",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0006.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0006.png"
+    },
+    {
+      "id":117,
+      "name_skin":"Naruto Skin 7",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0007.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0007.png"
+    },
+    {
+      "id":118,
+      "name_skin":"Naruto Skin 8",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0008.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0008.png"
+    },
+    {
+      "id":119,
+      "name_skin":"Naruto Skin 9",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0009.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0009.png"
+    },
+    {
+      "id":120,
+      "name_skin":"Naruto Skin 10",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0010.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0010.png"
+    },
+    {
+      "id":121,
+      "name_skin":"Naruto Skin 11",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0011.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0011.png"
+    },
+    {
+      "id":122,
+      "name_skin":"Naruto Skin 12",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0012.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0012.png"
+    },
+    {
+      "id":123,
+      "name_skin":"Naruto Skin 13",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0013.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0013.png"
+    },
+    {
+      "id":124,
+      "name_skin":"Naruto Skin 14",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0014.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0014.png"
+    },
+    {
+      "id":125,
+      "name_skin":"Naruto Skin 15",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0015.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0015.png"
+    },
+    {
+      "id":126,
+      "name_skin":"Naruto Skin 16",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0016.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0016.png"
+    },
+    {
+      "id":127,
+      "name_skin":"Naruto Skin 17",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0017.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0017.png"
+    },
+    {
+      "id":128,
+      "name_skin":"Naruto Skin 18",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0018.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0018.png"
+    },
+    {
+      "id":129,
+      "name_skin":"Naruto Skin 19",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0019.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0019.png"
+    },
+    {
+      "id":130,
+      "name_skin":"Naruto Skin 20",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0020.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0020.png"
+    },
+    {
+      "id":131,
+      "name_skin":"Naruto Skin 21",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0021.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0021.png"
+    },
+    {
+      "id":132,
+      "name_skin":"Naruto Skin 22",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0022.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0022.png"
+    },
+    {
+      "id":133,
+      "name_skin":"Naruto Skin 23",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0023.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0023.png"
+    },
+    {
+      "id":134,
+      "name_skin":"Naruto Skin 24",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0024.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0024.png"
+    },
+    {
+      "id":135,
+      "name_skin":"Naruto Skin 25",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0025.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0025.png"
+    },
+    {
+      "id":136,
+      "name_skin":"Naruto Skin 26",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0026.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0026.png"
+    },
+    {
+      "id":137,
+      "name_skin":"Naruto Skin 27",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0027.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0027.png"
+    },
+    {
+      "id":138,
+      "name_skin":"Naruto Skin 28",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0028.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0028.png"
+    },
+    {
+      "id":139,
+      "name_skin":"Naruto Skin 29",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0029.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0029.png"
+    },
+    {
+      "id":140,
+      "name_skin":"Naruto Skin 30",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0030.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0030.png"
+    },
+    {
+      "id":141,
+      "name_skin":"Naruto Skin 31",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0031.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0031.png"
+    },
+    {
+      "id":142,
+      "name_skin":"Naruto Skin 32",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0032.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0032.png"
+    },
+    {
+      "id":143,
+      "name_skin":"Naruto Skin 33",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0033.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0033.png"
+    },
+    {
+      "id":144,
+      "name_skin":"Naruto Skin 34",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0034.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0034.png"
+    },
+    {
+      "id":145,
+      "name_skin":"Naruto Skin 35",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0035.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0035.png"
+    },
+    {
+      "id":146,
+      "name_skin":"Naruto Skin 36",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0036.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0036.png"
+    },
+    {
+      "id":147,
+      "name_skin":"Naruto Skin 37",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0037.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0037.png"
+    },
+    {
+      "id":148,
+      "name_skin":"Naruto Skin 38",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0038.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0038.png"
+    },
+    {
+      "id":149,
+      "name_skin":"Naruto Skin 39",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0039.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0039.png"
+    },
+    {
+      "id":150,
+      "name_skin":"Naruto Skin 40",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0040.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0040.png"
+    },
+    {
+      "id":151,
+      "name_skin":"Naruto Skin 41",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0041.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0041.png"
+    },
+    {
+      "id":152,
+      "name_skin":"Naruto Skin 42",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0042.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0042.png"
+    },
+    {
+      "id":153,
+      "name_skin":"Naruto Skin 43",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0043.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0043.png"
+    },
+    {
+      "id":154,
+      "name_skin":"Naruto Skin 44",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0044.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0044.png"
+    },
+    {
+      "id":155,
+      "name_skin":"Naruto Skin 45",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0045.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0045.png"
+    },
+    {
+      "id":156,
+      "name_skin":"Naruto Skin 46",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0046.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0046.png"
+    },
+    {
+      "id":157,
+      "name_skin":"Naruto Skin 47",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0047.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0047.png"
+    },
+    {
+      "id":158,
+      "name_skin":"Naruto Skin 48",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0048.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0048.png"
+    },
+    {
+      "id":159,
+      "name_skin":"Naruto Skin 49",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0049.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0049.png"
+    },
+    {
+      "id":160,
+      "name_skin":"Naruto Skin 50",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0050.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0050.png"
+    },
+    {
+      "id":161,
+      "name_skin":"Naruto Skin 51",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0051.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0051.png"
+    },
+    {
+      "id":162,
+      "name_skin":"Naruto Skin 52",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0052.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0052.png"
+    },
+    {
+      "id":163,
+      "name_skin":"Naruto Skin 53",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0053.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0053.png"
+    },
+    {
+      "id":164,
+      "name_skin":"Naruto Skin 54",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0054.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0054.png"
+    },
+    {
+      "id":165,
+      "name_skin":"Naruto Skin 55",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0055.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0055.png"
+    },
+    {
+      "id":166,
+      "name_skin":"Naruto Skin 56",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0056.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0056.png"
+    },
+    {
+      "id":167,
+      "name_skin":"Naruto Skin 57",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0057.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0057.png"
+    },
+    {
+      "id":168,
+      "name_skin":"Naruto Skin 58",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0058.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0058.png"
+    },
+    {
+      "id":169,
+      "name_skin":"Naruto Skin 59",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0059.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0059.png"
+    },
+    {
+      "id":170,
+      "name_skin":"Naruto Skin 60",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0060.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0060.png"
+    },
+    {
+      "id":171,
+      "name_skin":"Naruto Skin 61",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0061.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0061.png"
+    },
+    {
+      "id":172,
+      "name_skin":"Naruto Skin 62",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0062.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0062.png"
+    },
+    {
+      "id":173,
+      "name_skin":"Naruto Skin 63",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0063.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0063.png"
+    },
+    {
+      "id":174,
+      "name_skin":"Naruto Skin 64",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0064.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0064.png"
+    },
+    {
+      "id":175,
+      "name_skin":"Naruto Skin 65",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0065.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0065.png"
+    },
+    {
+      "id":176,
+      "name_skin":"Naruto Skin 66",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0066.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0066.png"
+    },
+    {
+      "id":177,
+      "name_skin":"Naruto Skin 67",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0067.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0067.png"
+    },
+    {
+      "id":178,
+      "name_skin":"Naruto Skin 68",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0068.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0068.png"
+    },
+    {
+      "id":179,
+      "name_skin":"Naruto Skin 69",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0069.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0069.png"
+    },
+    {
+      "id":180,
+      "name_skin":"Naruto Skin 70",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0070.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0070.png"
+    },
+    {
+      "id":181,
+      "name_skin":"Naruto Skin 71",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0071.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0071.png"
+    },
+    {
+      "id":182,
+      "name_skin":"Naruto Skin 72",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0072.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0072.png"
+    },
+    {
+      "id":183,
+      "name_skin":"Naruto Skin 73",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0073.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0073.png"
+    },
+    {
+      "id":184,
+      "name_skin":"Naruto Skin 74",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0074.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0074.png"
+    },
+    {
+      "id":185,
+      "name_skin":"Naruto Skin 75",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0075.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0075.png"
+    },
+    {
+      "id":186,
+      "name_skin":"Naruto Skin 76",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0076.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0076.png"
+    },
+    {
+      "id":187,
+      "name_skin":"Naruto Skin 77",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0077.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0077.png"
+    },
+    {
+      "id":188,
+      "name_skin":"Naruto Skin 78",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0078.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0078.png"
+    },
+    {
+      "id":189,
+      "name_skin":"Naruto Skin 79",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0079.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0079.png"
+    },
+    {
+      "id":190,
+      "name_skin":"Naruto Skin 80",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0080.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0080.png"
+    },
+    {
+      "id":191,
+      "name_skin":"Naruto Skin 81",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0081.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0081.png"
+    },
+    {
+      "id":192,
+      "name_skin":"Naruto Skin 82",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0082.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0082.png"
+    },
+    {
+      "id":193,
+      "name_skin":"Naruto Skin 83",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0083.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0083.png"
+    },
+    {
+      "id":194,
+      "name_skin":"Naruto Skin 84",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0084.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0084.png"
+    },
+    {
+      "id":195,
+      "name_skin":"Naruto Skin 85",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0085.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0085.png"
+    },
+    {
+      "id":196,
+      "name_skin":"Naruto Skin 86",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0086.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0086.png"
+    },
+    {
+      "id":197,
+      "name_skin":"Naruto Skin 87",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0087.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0087.png"
+    },
+    {
+      "id":198,
+      "name_skin":"Naruto Skin 88",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0088.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0088.png"
+    },
+    {
+      "id":199,
+      "name_skin":"Naruto Skin 89",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0089.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0089.png"
+    },
+    {
+      "id":200,
+      "name_skin":"Naruto Skin 90",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0090.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0090.png"
+    },
+    {
+      "id":201,
+      "name_skin":"Naruto Skin 91",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0091.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0091.png"
+    },
+    {
+      "id":202,
+      "name_skin":"Naruto Skin 92",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0092.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0092.png"
+    },
+    {
+      "id":203,
+      "name_skin":"Naruto Skin 93",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0093.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0093.png"
+    },
+    {
+      "id":204,
+      "name_skin":"Naruto Skin 94",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0094.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0094.png"
+    },
+    {
+      "id":205,
+      "name_skin":"Naruto Skin 95",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0095.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0095.png"
+    },
+    {
+      "id":206,
+      "name_skin":"Naruto Skin 96",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0096.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0096.png"
+    },
+    {
+      "id":207,
+      "name_skin":"Naruto Skin 97",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0097.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0097.png"
+    },
+    {
+      "id":208,
+      "name_skin":"Naruto Skin 98",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0098.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0098.png"
+    },
+    {
+      "id":209,
+      "name_skin":"Naruto Skin 99",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0099.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0099.png"
+    },
+    {
+      "id":210,
+      "name_skin":"Naruto Skin 100",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/File/main/Naruto%20Skin/naruto0100.png",
+      "skin_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/skin0100.png"
+    },
+
+    
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Naruto Jedy V7 - CRYSTAL Addon",
+      "add_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/NARUTOJEDY_V7.mcaddon",
+      "addB_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/JEDYCrystal_B.mcpack",
+      "addR_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/JEDYCrystal_R.mcpack",
+      "view_add":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/naruto-jedy-v37--hyuuga-update--part-i-_4.png",
+      "des_add":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/NarutoJedyV7.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Konoha Maps",
+      "map_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/KONOHA-11142-1.0.0.mcworld",
+      "view_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/download.jpg",
+      "des_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/konoha_maps.html"
+    }
+  ]
+}
