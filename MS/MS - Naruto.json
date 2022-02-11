@@ -21,9 +21,6 @@
       "link_redirect": "https://"
     }
   ],
-
-  "More":
-  [],
   "Skin":
   [
     {
@@ -651,4 +648,6 @@
       "des_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/konoha_maps.html"
     }
   ]
+  "More":
+  [],
 }
