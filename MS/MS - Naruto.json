@@ -633,8 +633,8 @@
   [
     {
       "id":1,
-      "name_add":"Naruto Jedy V7 - CRYSTAL Addon",
-      "add_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/NARUTOJEDY_V7.mcaddon",
+      "name_add":"Naruto Addon",
+      "add_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/NarutoBeyond.mcaddon",
       "addB_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/JEDYCrystal_B.mcpack",
       "addR_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/JEDYCrystal_R.mcpack",
       "view_add":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/naruto-jedy-v37--hyuuga-update--part-i-_4.png",
@@ -646,7 +646,7 @@
     {
       "id":1,
       "name_map":"Konoha Maps",
-      "map_url":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/KONOHA-11142-1.0.0.mcworld",
+      "map_url":"https://raw.githubusercontent.com/taqwim36/File/main/Naruto%20Skin/KONOHA-11142-1.0.0.mcworld",
       "view_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/download.jpg",
       "des_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/konoha_maps.html"
     }
