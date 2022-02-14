@@ -1,0 +1,23 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-9323333401756051/8868950551",
+      "main_ads_intertitial":"ca-app-pub-9323333401756051/9096709900",
+      "native_for_admob":"ca-app-pub-9323333401756051/7644065427",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Mortgage",
+      "high_paying_keyword_3": "Donate",
+      "high_paying_keyword_4": "Electricity",
+      "high_paying_keyword_5": "Loans",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ]
+}
