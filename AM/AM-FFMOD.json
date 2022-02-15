@@ -1,0 +1,24 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2633475802864579/6250811486",
+      "main_ads_intertitial":"ca-app-pub-2633475802864579/6925259592",
+      "native_for_admob":"ca-app-pub-2633475802864579/1948604390",
+      "backup_ads_banner":"34b3a1cc85dfab86",
+      "backup_ads_intertitial":"abf83c6c420da6cb",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "claim",
+      "high_paying_keyword_2": "donate",
+      "high_paying_keyword_3": "hosting",
+      "high_paying_keyword_4": "finance",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
