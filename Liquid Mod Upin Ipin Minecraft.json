@@ -1,0 +1,195 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-9772004649495146/7780140602",
+      "main_ads_intertitial":"ca-app-pub-9772004649495146/8336057263",
+      "native_for_admob":"ca-app-pub-9772004649495146/6219646924",
+      "main_ads_reward":"ca-app-pub-9772004649495146/2221240901",
+      "backup_ads_banner":"678f48ca0b64b1b1",
+      "backup_ads_intertitial":"dd92e2a8abb2f9a4",
+      "backup_ads_native":"3aefb68b6b5ef467",
+      "backup_ads_reward":"cd5e21bf4c19231a",
+      "interval_intertitial": 0,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "claim",
+      "high_paying_keyword_2": "donate",
+      "high_paying_keyword_3": "hosting",
+      "high_paying_keyword_4": "finance",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [],
+  
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Upin Ipin Skin 1",
+      "skin_url":"https://lh3.googleusercontent.com/ZreOlRcRzof1O-Iin0ZEZVUMMwjMLFSY-LgDCQe4tpleKtjCVxCCohIIjk60iN01OXc1SgcoeL40xM5qS4h7XA",
+      "view_skin":"https://lh3.googleusercontent.com/gwpJor9wg66GjCrHp6hbPkPQMrUV5VdFdCVVw3Cg3CpI9_1BEYR53QrQ2cR9C6TFuDDqGOPnjPL19Lvt84m4AA"
+    },
+    {
+      "id":2,
+      "name_skin":"Upin Ipin Skin 2",
+      "skin_url":"https://lh3.googleusercontent.com/bN5Uld15__cHKUJ8E8up8bYp8lT8zurMk43b1lfBRMkosDLVccV1YtxvUsA-5J5XDwzJnSrWw5-ey4mPC2DK",
+      "view_skin":"https://lh3.googleusercontent.com/clBNylDe0EmSrE9_BaCtrCEwsT-v6_ZM00He-J9e62SJmF68lN4xm-G8_OJWSTS-IY9zhM-cnABK99zbKgoQ5Q"
+    },
+  {
+      "id":3,
+      "name_skin":"Upin Ipin Skin 3",
+      "skin_url":"https://lh3.googleusercontent.com/5t5aTFgX1pFzjtnxC2OGi2jcl6-uSPc96U5f3qqK4djyTCTpf5TQfyDOv6TVEtnKMy0RZoTZ3Ww_pLjMscTw",
+      "view_skin":"https://lh3.googleusercontent.com/8kw5jbjCRFW3CHUmF7lx3JJmRjGrPR4YEm_zH6JImGoFWXNDU4Z8a3lqD5mV5Z-3vxvRXvsUnqjBIg1z5KT9"
+    },
+    {
+      "id":4,
+      "name_skin":"Upin Ipin Skin 4",
+      "skin_url":"https://lh3.googleusercontent.com/LVeNZzAm1rvhCDzEKajx4DbAa5iCEGSoVfvPuVBFuH5QWQ8NGbFHBNg1vpp3FETrWOqXcvAmhiOAyNzaoQdNS_kTSvmfpP6_7g",
+      "view_skin":"https://lh3.googleusercontent.com/1SXRi67OQg-ja3YrL9ZVpAGJerX4qXWRq18A4eij5y-SDLbuZ4lVggv3Pewbjjs93Fhs0NzyjWln97vvE_fbP9-owSeZLDKP_w"
+    },
+  {
+      "id":5,
+      "name_skin":"Upin Ipin Skin 5",
+      "skin_url":"https://lh3.googleusercontent.com/cjTjTnF_cGWFMJaotj72xN8jpmOZhsk18PL_YMwM6Wq0Ejtvlu62LBj_wRaUhnFJuqkQg9K86oIHCcklcW4f",
+      "view_skin":"https://lh3.googleusercontent.com/QrlqjK83om8a89N5wDtO7wnpP8Fi1ve-f4kkuV66xdQ4grdelvQZnDk6D0urdlVg1rb9gCMGa_U8ZXOesjxz"
+    },
+    {
+      "id":6,
+      "name_skin":"Upin Ipin Skin 6",
+      "skin_url":"https://lh3.googleusercontent.com/X3xUUkM3aJ6mfkSdzMAGM3R6zcuwc4kp8U7eiqH5O3Ac4y0WLtv0SDkz9f8T3eysI-DFGkbkdiuStPKIvWWcLnT3kxS9806fTZ0",
+      "view_skin":"https://lh3.googleusercontent.com/OFJ8JX7Leh7nQ108auvtK2zTtAQ49BYAK0FPRLMbzL4iTGOqr4N1gSpSIAA5TpPb47tG0KwihQFLYLwPvBeRSxiQs56YNj2OBQY"
+    },
+  {
+      "id":7,
+      "name_skin":"Upin Ipin Skin 7",
+      "skin_url":"https://lh3.googleusercontent.com/kZ5tjQjuIXcjuMksoqT9liCPEbAIT4ju9hWI9ZYfH_EUC3cBdf2hYDX1RtWRRWc_cSHNDwZQQXXHkdVaYzRrhu9kp1Z-I2IF1IM",
+      "view_skin":"https://lh3.googleusercontent.com/clEKRan1NC-8gIAJaaFoJZCWjm76ZTmEh43DO4mk1isFAJ3NwCavgLpgKZEhKzPoXp1qXUjCWqwIqOjXLKVR-uXE26f7j82wGMI"
+    },
+    {
+      "id":8,
+      "name_skin":"Upin Ipin Skin 8",
+      "skin_url":"https://lh3.googleusercontent.com/uLPNAEbVcQOVCfFeL9VqQx1n9gcTfsnhp7__loBvEsLWZRc-qKDyjQSIo1GXzSpfMJS3sMNCBpYOz0Bq-NL8z_ah68kM5mO7Vg",
+      "view_skin":"https://lh3.googleusercontent.com/6FSa62_oT4H4wTP6hAd8GFVoGFJJroTxUAXCc47zSKZtW0-Vumbq97-97-IKyTNxTJvSedIJKiRE4yL_95QUZCEAICBgalW_Zw"
+    },
+  {
+      "id":9,
+      "name_skin":"Upin Ipin Skin 9",
+      "skin_url":"https://lh3.googleusercontent.com/meuefqLhuQfc3CWUcZZKFgqxl6joOUG8PIbzWU7b8l5blHL-HqW9SegmB549cIyGHOu7Xuh0qXGnT2BfvLKwVHopPOZeI-VXFIFG",
+      "view_skin":"https://lh3.googleusercontent.com/tL6ojGblvrqRWmlCz4OkiOzzQojIe6zqT4K_cUzdRu83zx09nLQwSDfwcGCmNxPzVmKeZeUqt0hC4TYo-C5juT_h6K6EZfRggls"
+    },
+    {
+      "id":10,
+      "name_skin":"Upin Ipin Skin 10",
+      "skin_url":"https://lh3.googleusercontent.com/yyfjZIxClrtElvslvUXMgIlU7q2T5RfqTG2Z8_kdOR13NqPCKwchK6V-9_dy2fzgVqKshQ4qd8ioc_5m7CuItdZ2JP2Ad6IfOPI",
+      "view_skin":"https://lh3.googleusercontent.com/Pr9ls-oQsXAMGuXYil7-4kDvxM0twUAzNs-Fm2iWgo1LYkKlSRKy29y3cXXjHqcs5g2MBTaAq01SH8PTji_hWzDXUw2tkVN6SkY"
+    },
+  {
+      "id":11,
+      "name_skin":"Upin Ipin Skin 11",
+      "skin_url":"https://lh3.googleusercontent.com/NQZdt7ronEfA6HS652jKxdk-zcC6_upGp2XjAT1bgdegZNOQ1BKTedsDuQZrEQ8pt_AHtn0Iq9ECBMvK95STB5inhLUcnl-2h2s",
+      "view_skin":"https://lh3.googleusercontent.com/TddhDUmduxvouBa56XlPE9fTc-XSyZTrQfoUZeCjmH95cIyuxh948RLWWcN6RYfLF0uIjEOzW4JOPFGV3neKFlFyRDJuSdaOFU0"
+    },
+    {
+      "id":12,
+      "name_skin":"Upin Ipin Skin 12",
+      "skin_url":"https://lh3.googleusercontent.com/R1Pb_BZRBSB_MR3IN83BOtyAEezjS44ZN7TnFjTVXDqp7K1AQ82D_wOZ7KvL_tNKYjF6T_LOV43AR-gKcJukYy6H1sMDXuEyFsE",
+      "view_skin":"https://lh3.googleusercontent.com/hXnOyoRCTtSj6mkzlAyz7tT1v7jKNTnjpqM-tbqXpiJ9p_9yrGSEu29U4j1L7y6ry-giRbMlAXw0aviVvwJ0mJ1IS4Y0eG5Udk4"
+    },
+  {
+      "id":13,
+      "name_skin":"Upin Ipin Skin 13",
+      "skin_url":"https://lh3.googleusercontent.com/tijDxuAUMis6pc1GY9tzlWrb9WPWd5o2mUiOOZSJZLZsivMzSXq54yUUzzwsFPCVcAKJW59RFOBlM6jRRQcMHM7ThMN8qWYD0A",
+      "view_skin":"https://lh3.googleusercontent.com/A9_lMIPDJZN6Qf79f6Euu-NjVSkDQFcXc4KPrWCg1rou7inQt4bOsei3PGluz9adUOs-K7xjBIKmTCVWZQ74GLo-FSOMLrLLfG8Y"
+    },
+    {
+      "id":14,
+      "name_skin":"Upin Ipin Skin 14",
+      "skin_url":"https://lh3.googleusercontent.com/CMr1Wa0J4VG81qpiiqOBkVaN29taUDTx9clDktlNKMbW9qG0pSvkghzbWBtn0w9X03jN5yex91LgyzeVNn2WHa1EDloXRT96tw",
+      "view_skin":"https://lh3.googleusercontent.com/apRQ6tMjMFCMOUHwF4YuZDFN1fOBhzupldGxTHRE_8SuauEt1UJc9lMiVJbrqNHpu4M3kFhTamN6rAXVauIxtlbvOOlSeVuw0hb5"
+    },
+  {
+      "id":15,
+      "name_skin":"Upin Ipin Skin 15",
+      "skin_url":"https://lh3.googleusercontent.com/Afa6gFmFB4gGAYCZI-2UTo8W0bgCY1KA7c_ZVc6xzAChTLs6_lOhkPUy9on3lps62GSNTUsrJr8yUxdpbStzNKStWRLAda36RWZD",
+      "view_skin":"https://lh3.googleusercontent.com/oiPNaHRKA8Y9O83UO6icOhWW9-7TJwoxxGgjlgr3gabgwcSQXKNyXUBnJ8-yt3aVrwu9hMWsvt6wmKgJC_7zx_b7YECJUffJIwfH"
+    },
+    {
+      "id":16,
+      "name_skin":"Upin Ipin Skin 16",
+      "skin_url":"https://lh3.googleusercontent.com/OQmRog49h29Bd_E3YvjQ5N7jBLq1AmalP7L34wRw8brSivKWVKMGeQ4saYfg5i_ON2gP7-rSMgva-VqsUksjpBPEAg7MLM7foWI",
+      "view_skin":"https://lh3.googleusercontent.com/YbeHy5Dm7Ld4MqiBtl_GYLhMc6Dgxo8h-DxU0Mi93qwIcsB4q0OB77Q143KRHRDBbq_QnY-6TrMBR9LRAGq12Gn_nw2zm0p6z-o"
+    },
+  {
+      "id":17,
+      "name_skin":"Upin Ipin Skin 17",
+      "skin_url":"https://lh3.googleusercontent.com/CKRrOL280jj1jtMYLT7gNxIFuOa9QDDTlEJESUU2vrC9iezNFa6Z3rYm966wBFgnx3s6DmIsc7JcxvvBK38PcSORJaUUVkNCtaw",
+      "view_skin":"https://lh3.googleusercontent.com/8bUZwOw6P33J9H8AEFzYPWxQIUfLF34exUppY-fxjdnsWsg-sGHvKG5JnrCe56Zkyj5NhQziyKr4wB5dNNhT7rbxkiQbaEm5kVY"
+    },
+    {
+      "id":18,
+      "name_skin":"Upin Ipin Skin 18",
+      "skin_url":"https://lh3.googleusercontent.com/801-7eU75tK2XS8A2el2u9QuwCKA9srkJLmFwy8-FB8m-JOrqzpJ_ZyjLPBxszdmgotkhTMb8nn3k3EcSJwoypkRdeWeO-ts5iI",
+      "view_skin":"https://lh3.googleusercontent.com/COTfLd30-1tT3wnox_4zkBjon9FKHg35rwL7c3sjDNi3E4xsB3Cjzd1u4UimKrUzQcbJd87ph39j1atTvlZ3l7Fle3A01qDTry8"
+    },
+  {
+      "id":19,
+      "name_skin":"Upin Ipin Skin 19",
+      "skin_url":"https://lh3.googleusercontent.com/ZWTzd6519UZDRhAU-Ri9cMDx4812vG9alLq5TI5LIZZCGc7XSyJ4SZwQKzgt8e4NOJlITbCmfzztq7n5SosWmhhooNxIMA-lUbI",
+      "view_skin":"https://lh3.googleusercontent.com/iwd2rgBoYwmJHPsBHvbgvcNjaWUExpEiXGcHUHi7-sgUmrrHHu-Xs6H2ocVa3HyCdQb-rSQFPSM9u5PlU7Tw1QtGp4LWR1L24OY"
+    },
+    {
+      "id":20,
+      "name_skin":"Upin Ipin Skin 20",
+      "skin_url":"https://lh3.googleusercontent.com/3nhNOKGS5I8-k_dIT5AgPaBbZmC8I9xRquo6hqpyHg56bF0TsqbGLIXVGvfAaJa2I4ZhUIu6AWbIKwMEHUqkBjUG5YGrs7rGNhU",
+      "view_skin":"https://lh3.googleusercontent.com/JAQkpYqfnSi-c64cPSF0FBn0q7US0N3d94b5lamUAH3ApjqKVWZo_xl-QYsbAWQLOC7T3iQJPtzsO-SpRs1ZtPn5X8euGLRpTg"
+    },
+  {
+      "id":21,
+      "name_skin":"Upin Ipin Skin 21",
+      "skin_url":"https://lh3.googleusercontent.com/A5v2OG07Znxr5os5PG-6bOLhAfSBgmUrxqKQdAfVgwdpUsWy0jjRp6rjS0W3jVrYqIJ0ArXgQGaJehIc7NKQqQoAzHil-722uww",
+      "view_skin":"https://lh3.googleusercontent.com/jtDy9HAiaXWeKCnBWaLZaVzh6RmNzfAv-8PjTb-SydfBJZECGDxihyYX44H_JH_L8sOXMZSVfAaH5AmNggCGsIQwH95VdQf2Xbvr"
+    },
+    {
+      "id":22,
+      "name_skin":"Upin Ipin Skin 22",
+      "skin_url":"https://lh3.googleusercontent.com/3LxSICuQ1BziEAgwD5KuOmpQjBpVdztHi1M-8QNpkUs4bq1LSe8F7sPgmCMVL4TVPfiNSsShq3bTx98nS4njMeDCexB-Q9e5lh3N",
+      "view_skin":"https://lh3.googleusercontent.com/Dpsun4FRBQTEFJRduPbMxUIs85wxiObOi8P2K4bFvzA8Dn8MCG7pdJw00J3Io_OIEjI2nQOX1hGiMAKWM6dXV2JX7D3nZRaFCg"
+    }
+  ],
+  "Addons":
+  [
+   {
+      "id":1,
+      "name_add":"Upin Ipin Addon MCPE",
+      "add_url":"https://archive.org/download/upin-ipin-mcpe/UpinIpinAddon1.mcaddon",
+      "addB_url":"https://archive.org/download/addupinipin/add1B.mcpack",
+      "addR_url":"https://archive.org/download/addupinipin/add1R.mcpack",
+      "view_add":"file:///android_asset/addon.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/upinipin/instal.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Upin Ipin Maps 1",
+      "map_url":"https://archive.org/download/upin-ipin-mcpe/UpinIpinMap1.mcworld",
+      "view_map":"file:///android_asset/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/upinipin/map.html"
+    },
+   {
+      "id":2,
+      "name_map":"Upin Ipin Maps 2",
+      "map_url":"https://archive.org/download/upin-ipin-mcpe/UpinIpinMap2.mcworld",
+      "view_map":"file:///android_asset/map.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/upinipin/map.html"
+    }
+  ]
+}
